@@ -1,6 +1,3 @@
-Love this 🔥 Let’s make it **clean, modern, recruiter-impressive**, and GitHub-ready.
-
-You can directly copy this into your `README.md`.
 
 ---
 
