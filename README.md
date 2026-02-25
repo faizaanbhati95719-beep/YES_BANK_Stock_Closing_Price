@@ -146,3 +146,30 @@ NumPy
 Matplotlib
 
 Seaborn
+
+📈 Business Impact
+
+Helps investors understand price behavior patterns
+
+Assists in volatility-aware forecasting
+
+Demonstrates how ML models behave during financial crises
+
+Practical example of regression modeling in FinTech
+
+🚀 Future Improvements
+
+Add ARIMA / Time-Series models
+
+Use LSTM for deep learning forecasting
+
+Add feature engineering with macroeconomic indicators
+
+Deploy as a web application
+
+Integrate real-time stock API
+
+👨‍💻 Author
+
+Faizaan Bhati
+B.Tech Final Year | AI/ML Enthusiast | FinTech Explorer
