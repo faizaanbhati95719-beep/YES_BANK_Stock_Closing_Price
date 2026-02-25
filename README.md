@@ -158,19 +158,3 @@ YES-Bank-Stock-Prediction/
 📊 FinTech Explorer
 
 ---
-
-<p align="center">
-⭐ If you found this project interesting, consider giving it a star!
-</p>
-
----
-
-If you'd like, I can now:
-
-* Add a 🔥 custom banner header design
-* Make it look like a **top 1% GitHub ML project**
-* Add animated GIF demo section
-* Create a professional LinkedIn-ready project summary
-* Or optimize it for placements & internships
-
-Just tell me your goal (placement / GitHub portfolio / LinkedIn / hackathon).
