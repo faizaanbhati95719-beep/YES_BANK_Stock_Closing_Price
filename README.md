@@ -87,11 +87,8 @@ Implemented and compared multiple regression models:
 Pair Plot of Log-Transformed Variables:
 (Open, High, Low, Close showed strong linear relationships)
 
-*(You can insert your image here later using:)*
-
 ```markdown
-![Pair Plot]
-images/pairplot.png
+![Pair Plot](images/pairplot.png)
 ```
 
 ---
