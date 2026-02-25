@@ -90,7 +90,8 @@ Pair Plot of Log-Transformed Variables:
 *(You can insert your image here later using:)*
 
 ```markdown
-![Pair Plot](images/pairplot.png)
+![Pair Plot]
+images/pairplot.png
 ```
 
 ---
