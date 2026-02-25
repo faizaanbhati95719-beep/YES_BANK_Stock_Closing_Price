@@ -88,7 +88,7 @@ Pair Plot of Log-Transformed Variables:
 (Open, High, Low, Close showed strong linear relationships)
 
 ```markdown
-![Pair Plot](../images/pairplot.png)
+![Pair Plot](./images/pairplot.png)
 ```
 
 ---
